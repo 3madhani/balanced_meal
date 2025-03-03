@@ -37,4 +37,4 @@ See [README.md](README.md)
 
 ### Video Preview
 
-![Balanced Meal App]([https://www.linkedin.com/posts/3mad-hany_flutter-mvvm-provider-activity-7298526398715985920-nepl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEYiYdgBj328EUsJOqokYrIsMJGEsVnCsrQ](https://www.linkedin.com/posts/3mad-hany_flutter-mvvm-provider-activity-7298526398715985920-nepl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEYiYdgBj328EUsJOqokYrIsMJGEsVnCsrQ))
+<https://www.linkedin.com/posts/3mad-hany_flutter-mvvm-provider-activity-7298526398715985920-nepl?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEYiYdgBj328EUsJOqokYrIsMJGEsVnCsrQ>
